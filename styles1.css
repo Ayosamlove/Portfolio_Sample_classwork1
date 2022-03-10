@@ -1,0 +1,82 @@
+body{
+    background-image: url("capture.jpg");
+    background-size: cover;
+}
+
+
+.Navbar{
+    margin-right: 300px;
+}
+
+.Navbar li{
+    list-style-type: none;
+    display: inline;
+    float: right;
+    margin-right: 2%;
+    margin-top: 4.5%;
+}
+
+.Navbar a{
+    color: white;
+}
+.Navbar .Nav1{
+    border: 1px solid white;
+    padding: 7px;
+    color: white;
+    border-radius: 20%;
+    margin-top: 3.5%;
+}
+.Navbar a:hover{
+    color: black;
+    background-color: transparent;
+}
+
+.Find{
+    color: white;
+    margin-left: 5%;
+}
+.Whole{
+    background-color: rgb(32, 37, 57);
+    height: 700px;
+    margin: 125px 300px 125px 300px;
+    border-radius: 3%;
+}
+
+.Navigate li{
+    list-style-type: none;
+    display: inline;
+    color: white;
+
+}
+
+.Navigate a{
+    text-decoration: none;
+    padding: 10px;
+    
+}
+
+.Navigate{
+    margin-left: 5%;
+    border: 2px solid none;
+    display: inline;
+    background-color: grey;
+    padding: 15px;
+    border-radius: 15%;
+
+}
+
+.Navigate .Navigate2{
+    background-color: red;
+    padding: 15px;
+    border: 1px solid red;
+    border-radius: 15%;
+}
+
+.Navigate .Navigate3{
+    border-bottom: 3px solid red;
+    padding-bottom: 10px;
+}
+
+.Navigate a:hover{
+    background-color: blueviolet;
+}
